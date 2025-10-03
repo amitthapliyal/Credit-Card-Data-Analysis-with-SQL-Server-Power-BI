@@ -32,10 +32,12 @@ The pipeline covers the complete workflow:
 
 📊 Key Insights
 
--Quarterly Revenue → Q2 shows peak revenue and transactions.
+-Quarterly Revenue → Q2 shows peak revenue and transactions. 
+
 -Top Spending Categories → Bills & Entertainment dominate, followed by Grocery, Travel, and Fuel.
 -Customer Segments → Graduates & Businessmen contribute highest revenue.
 -Card Category → Blue cards dominate both revenue & usage.
+credit card (dashboard.png)
 -Channel Analysis → Swipe transactions are most common, followed by Chip and Online.
 -Age & Income Trends → Older and higher-income customers spend more.
 
